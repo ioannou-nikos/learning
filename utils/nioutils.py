@@ -62,3 +62,4 @@ if __name__ == '__main__':
     print(clean_greek_phrase(s))
     print("Checking Similarity with Greek")
     print(similar_difflib("ΝΙΚΟΣ ΙΩΑΝΝΟΥ", "ΝΙΚΟΛΑΟΣ ΙΩΑΝΝΟΥ"))
+
