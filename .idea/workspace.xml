@@ -2,8 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdfd788a-c61a-42d8-bcdb-674e380018f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_analysis/tweet_analysis.ipynb" afterPath="$PROJECT_DIR$/twitter_analysis/tweet_analysis.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/00_ΠΚΜ_201710_2η ΤΡΟΠΟΠΟΙΗΣΗ_ΕΥΘΥΝΗΣ ΠΚΜ_2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/00_ΠΚΜ_201710_ΠΑΡΑΡΤΗΜΑ ΛΑΙΚΩΝ ΑΓΟΡΩΝ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/00_ΠΚΜ_201710_ΠΑΡΑΡΤΗΜΑ ΤΟΥΡΙΣΜΟΥ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/01_ΗΜΑΘΙΑ201710_ΔΙΟΡΘΩΣΗ ΔΙΑΒ  2η Τροπ ΚΑΠ_02 10 17.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/01_ΗΜΑΘΙΑ_201710_ΔΙΟΡΘΩΣΗ ΔΙΑΒ  1ης ΤΡΟΠ  ΙΔΠΟΣΚ_02 10 2017 (2).doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/01_ΗΜΑΘΙΑ_201710_ΟΣΚ_ΔΙΟΡΘΩΣΗ ΟΣΚ_02 10 17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/01_ΗΜΑΘΙΑ_ΙΔΠ201710 ΔΙΟΡΘΩΣΗ_1_02 10 17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/01_ΗΜΑΘΙΑ_ΚΑΠ_201710ΔΙΟΡΘΩΣΗ ΚΑΠ_1_02 10 17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΑΘΛΗΤ_ 201710_1Η ΤΡΟΠΟΠΟΙΗΣΗ ΠΡΟΓΡΑΜΜΑ ΜΙΚΡΟΚΑΤΑΣΚΕΥΩΝ ΑΘΛΗΤΙΚΩΝ ΑΠΟ ΣΑΕ 016.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΑΘΛΗΤ_201710_2017_Διαβίβαση ΔΙΑΠ 1ης Τροοποίησης αθλητικών εγκαταστασεων ΣΑΕ 016 ΜΕΘ.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΑΝΑΠΤ. ΠΥ_201710_Διαβίβαση ΔΙΑΠ 2ης Τροποποίησης Αναπτυξιακού ΠΥ 2017.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΑΝΑΠΤ_201710_2Η ΤΡΟΠΟΠΟΙΗΣΗ ΑΝΑΠΤΥΞΙΑΚΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΙΔΠ_201710_3Η ΤΡΟΠ. ΙΔΙΩΝ ΠΟΡΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΙΔΠ_201710_3η Τροπ.- Διαβίβαση απο Αντιπερ.ΜΕΘ Κατάρτιση Ιδίων Πόρων ΠΕΘ 2017.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΚΑΠ_201710_ ΠΡΟΕΡΓΑΣΙΑ 1ΗΣ ΤΡΟΠ. ΚΑΠ_ΘΕΣ_2017_ΜΕ ΚΑΕ ΕΞΟΔΟΥ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/02_ΜΕΘ_ΚΑΠ_201710_Διαβίβαση ΔΙΑΠ 1ης Τροποπ.  ΚΑΠ  ΜΕΘ.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_ ΚΑΠ 201710 REV1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_ ΠΡΟΣΤΙΜΑ_ 201710 REV1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_201710ΑΠΟΣΤΟΛΗ ΙΔΠ REV 2, 2017 διαβιβαστικο 408608 (1833) 02-10-2017.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_TOKOI _201710 REV1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_ΑΠΟΣΤΟΛΗ ΥΠΟΛΟΙΠΩΝ REV 1, 2017 διαβιβαστικο 408678 (1835) 02-10-2017.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_ΙΔΠ ΠΑΡΑΡΤΗΜΑΤΑ_201710 REV2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_ΛΟΙΠΑ_201710 REV1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/04_ΠΙΕΡΙΑ_τεστ ΚΑΠ REV 1, 2017 διαβιβαστικο 408609 (1834) 02-10-2017.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_201710_ Διαβιβαστικό 1ης Τροποποίησης ΙΔ ΠΟΡΟΙ ΠΕ Πέλ.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_201710_ΔΙΟΡΘΩΣΗ ΠΙΝ  ΑΠ_ΕΝ_ΕΡ Τ Δ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_201710_Διαβιβαστικό 1ης Τροπ ΚΑΠ ΠΕ ΠΕΛ.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_201710ΔΙΟΡΘΩΣΗ ΠΙΝ  ΑΠ_ΕΝ_ΕΡ ΚΑΠ_.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_ΙΔΠ_201710_ΔΙΟΡΘΩΣΗ 1Η ΤΡΟΠΟΠΟΙΗΣΗ ΙΔΙΟΙ ΠΟΡΟΙ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/05_ΠΕΛΛΑ_ΚΑΠ_201710_ΔΙΟΡΘΩΣΗ ΚΑΠ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/07_ΧΑΛΚΙΔΙΚΗ_ ΚΑΠ_201710_ΔΙΟΡΘΩΣΗ ΠΡΟΓΡΑΜΜΑ ΚΑΠ 2017 ΜΕ ΚΑΕ 2η ΤΡΟΠΟΠΟΙΗΣΗ 2.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/07_ΧΑΛΚΙΔΙΚΗ_ΙΔΠ_201710_ΔΙΟΡΘΩΣΗ ΠΡΟΓΡΑΜΜΑ ΙΔΙΟΙ ΠΟΡΟΙ 2η ΤΡΟΠΟΠΟΙΗΣΗ  ΜΕ ΚΑΕ.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/proposed_programs_october_2017/07_ΧΑΛΚΙΔΙΚΗ_ΚΑΠ_201710_ΔΙΟΡΘΩΣΗ Διαβιβαστικο 2η Τροποποίηση ΚΑΠ 2017.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/00_ΠΚΜ_1η ΤΡΟΠΟΠΟΙΗΣΗ_ΕΥΘΥΝΗΣ ΠΚΜ_2017_ΚΑΘΑΡΟ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/00_ΠΚΜ_ΠΑΡΑΡΤΗΜΑ ΕΡΓΟΥ ΣΧΟΛΙΚΗΣ ΣΤΕΓΗΣ ΚΑΠ ΕΥΘΥΝΗΣ ΠΚΜ 2017-ΚΑΘΑΡΟ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/00_ΠΚΜ_ΠΑΡΑΡΤΗΜΑ ΛΑΙΚΩΝ ΑΓΟΡΩΝ_ΚΑΘΑΡΟ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/00_ΠΚΜ_ΠΑΡΑΡΤΗΜΑ ΤΟΥΡΙΣΜΟΥ_ΚΑΘΑΡΟ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/01_ΗΜΑΘΙΑ _ΤΕΛΙΚΟ ΟΣΚ_14 02 17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/01_ΗΜΑΘΙΑ_ΙΔΠ_Αντίγραφο από ΝΕΟ ΤΕΛΙΚΟΙΔ Π_0__teliko.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/01_ΗΜΑΘΙΑ_ΚΑΠ_1_15.06.17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/02_ΜΕΘ_1Η ΤΡΟΠΟΠΟΙΗΣΗ ΑΝΑΠΤΥΞΙΑΚΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/02_ΜΕΘ_1Η ΤΡΟΠΟΠΟΙΗΣΗ ΥΠΟΛΟΙΠΑ ΟΣΚ- ΤΟΚΟΙ ΘΕΣΣΑΛΟΝΙΚΗ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/02_ΜΕΘ_2017_ΚΑΤΑΡΤΙΣΗ ΠΡΟΓΡΑΜΜΑ ΜΙΚΡΟΚΑΤΑΣΚΕΥΩΝ ΑΘΛΗΤΙΚΩΝ ΑΠΟ ΣΑΕ 016.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/02_ΜΕΘ_2Η ΤΡΟΠ. ΙΔΙΩΝ ΠΟΡΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/02_ΜΕΘ_Αντίγραφο από ΤΕΛΙΚΗ ΚΑΤΑΡΤΙΣΗ ΚΑΠ_ΘΕΣ_2017 ΓΙΑ ΟΙΚΟΝ.ΕΠΙΤΡ._.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/03_ΚΙΛΚΙΣ_ΙΔΠ_ΚΑΤΑΡΤΙΣΗ ΙΔΙΩΝ ΠΟΡΩΝ ΚΙΛΚΙΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/03_ΚΙΛΚΙΣ_ΙΔΠ_ΚΑΤΑΡΤΙΣΗ ΟΣΚ ΚΙΛΚΙΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/03_ΚΙΛΚΙΣ_ΙΔΠΚΑΤΑΡΤΙΣΗ ΤΕΟ ΚΙΛΚΙΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/03_ΚΙΛΚΙΣ_ΚΑΠ_ΤΕΛΙΚΟΣ ΠΙΝΑΚΑΣ ΠΡΟΓΡΑΜΜΑΤΩΝ 2017-ΚΑΠ (2).xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/04_ΠΕΛΛΑ_ΙΔΠ_Αντίγραφο από ΤΕΛΙΚΟ ΚΑΤΑΡΤΙΣΗ ΙΔ ΠΟ 2017 ΔΙΟΡΘΩΣΗ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/04_ΠΕΛΛΑ_ΚΑΠ_ΤΕΛΙΚΟ ΚΑΤΑΡΤΙΣΗ ΚΑΠ 2017 ΔΙΟΡΘΩΣΗ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/04_ΠΕΛΛΑ_ΟΣΚ_ΤΕΛΙΚΗ ΚΑΤΑΡΤΙΣΗ ΟΣΚ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/04_ΠΕΛΛΑ_ΤΕΟ_ ΤΕΛΙΚΟ ΚΑΤΑΡΤΙΣΗ ΤΕΟ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΙΔΠ 2017 ΠΑΡΑΡΤΗΜΑΤΑ  REV1.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ TOKOI ΠΙΕΡΙΑΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ ΚΑΠ ΠΙΕΡΙΑΣ 2017 .xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ ΛΟΙΠΑ ΠΙΕΡΙΑΣ 2017 .xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ ΟΣΚ ΠΙΕΡΙΑΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ ΠΡΟΣΤΙΜΑ ΠΙΕΡΙΑΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/05_ΠΙΕΡΙΑ_ΚΑΤΑΡΤΙΣΗ ΥΠΕΣΣΔΑ ΠΙΕΡΙΑΣ 2017.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/06_ΣΕΡΡΕΣ_ΚΑΠ Αντίγραφο από ΤΕΛΙΚΟ 010317 ΤΕΛΙΚO ΠΠΕ-ΙΠ ΚΑΤΑΡΤΙΣΗ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/06_ΣΕΡΡΕΣ_ΚΑΠ_130617 1η τροπ. ΠΠΕ-ΚΑΠ  2017χσ.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/07_ΧΑΛΚΙΔΙΚΗ_ΙΔΠ_ ΠΡΟΓΡΑΜΜΑ ΙΔΙΟΙ ΠΟΡΟΙ 1η ΤΡΟΠΟΠΟΙΗΣΗ  ΜΕ ΚΑΕ.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/programs/working_programs_october_2017/07_ΧΑΛΚΙΔΙΚΗ_ΚΑΠ ΠΡΟΓΡΑΜΜΑ ΚΑΠ 2017 ΜΕ ΚΑΕ 1η ΤΡΟΠΟΠΟΙΗΣΗ (2).xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple_port_scanner/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple_port_scanner/portscanner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/dict_utils.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +78,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="34" />
     <option name="width" value="1280" />
     <option name="height" value="698" />
@@ -45,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,6 +127,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,11 +184,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="1280" height="698" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16354166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954129" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -159,7 +224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -167,20 +231,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cipola/cipola.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#76#107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cipola/cipola.py" />
     <entry file="file://$PROJECT_DIR$/twitter_analysis/tweet_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
