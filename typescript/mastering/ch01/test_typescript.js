@@ -1,0 +1,25 @@
+"use strict";
+var myBoolean = true;
+var myNumber = 1234;
+var myStringArray = [`first`, `second`, `third`];
+myBoolean = myNumber === 456;
+myStringArray = [myNumber.toString(), `5678`];
+myNumber = myStringArray.length;
+console.log(`myBoolean = ${myBoolean}`);
+console.log(`myStringArray = ${myStringArray}`);
+console.log(`myNumber = ${myNumber}`);
+// Inferred typing
+var inferredString = "this is a string";
+var inferredNumber = 1;
+// Duck typing
+var nameIdObject = { name: "myName", id: 1, print() { } };
+nameIdObject = { id: 2, name: "anotherName", print() { } };
+// Duck typing ex2
+var obj1 = { id: 1, print() { } };
+var obj2 = { id: 2, print() { }, select() { } };
+//obj1 = obj2;
+//obj2 = obj1; //error
+function calculate(a, b, c) {
+    return (a * b) + c;
+}
+console.log(`calculate() = ${calculate(2, 3, 1)}`);
