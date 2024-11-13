@@ -1,1 +1,4 @@
 crash_course/learning_log/ll_env/
+venv/
+.vscode/
+.idea/
