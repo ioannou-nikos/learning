@@ -33,3 +33,19 @@ plt.show()
 # Print the results
 print("Results of Horizontal Analysis:")
 print(df_horizontal_analysis)
+
+# VETICAL ANALYSIS
+
+# Sample financial data for vertical analysis
+data_vertical = {
+    'Item': ['Revenue', 'Cost of Goods Sold', 'Gross Profit', 'Operating Expenses', 'Net Income'],
+    'Amount': [180000, 120000, 600000, 300000, 300000]
+}
+
+# Convert the data into a pandas dataframe
+df_vertical = pd.DataFrame(data=data_vertical)
+
+# Set the 'Item' column as the index
+df_vertical.set_index('Item', inplace=True)
+# Perform Vertical Analysis
+# Express each item as a percentage of total revenue

@@ -1,0 +1,212 @@
+   0.006435625s  INFO prepare_target{force=false package_id=csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs) target="csv-insight-rs"}: cargo::core::compiler::fingerprint: fingerprint error for csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs)/Check { test: false }/TargetInner { name: "csv-insight-rs", doc: true, ..: with_path("/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/src/main.rs", Edition2024) }
+   0.006449167s  INFO prepare_target{force=false package_id=csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs) target="csv-insight-rs"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/csv-insight-rs-b003bbad6802077e/bin-csv-insight-rs`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   7: cargo::ops::cargo_compile::compile_ws
+   8: cargo::ops::cargo_compile::compile_with_exec
+   9: cargo::ops::cargo_compile::compile
+  10: cargo::commands::check::exec
+  11: <cargo::cli::Exec>::exec
+  12: cargo::main
+  13: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  14: std::rt::lang_start::<()>::{closure#0}
+  15: std::rt::lang_start_internal
+  16: _main
+   0.008788167s  INFO prepare_target{force=false package_id=csv v1.4.0 target="csv"}: cargo::core::compiler::fingerprint: fingerprint error for csv v1.4.0/Check { test: false }/TargetInner { benched: false, ..: lib_target("csv", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/csv-1.4.0/src/lib.rs", Edition2021) }
+   0.008795542s  INFO prepare_target{force=false package_id=csv v1.4.0 target="csv"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/csv-ca1e54e2ea3f4d64/lib-csv`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   8: cargo::ops::cargo_compile::compile_ws
+   9: cargo::ops::cargo_compile::compile_with_exec
+  10: cargo::ops::cargo_compile::compile
+  11: cargo::commands::check::exec
+  12: <cargo::cli::Exec>::exec
+  13: cargo::main
+  14: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  15: std::rt::lang_start::<()>::{closure#0}
+  16: std::rt::lang_start_internal
+  17: _main
+   0.008973417s  INFO prepare_target{force=false package_id=csv-core v0.1.13 target="csv_core"}: cargo::core::compiler::fingerprint: fingerprint error for csv-core v0.1.13/Check { test: false }/TargetInner { benched: false, ..: lib_target("csv_core", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/csv-core-0.1.13/src/lib.rs", Edition2018) }
+   0.008977500s  INFO prepare_target{force=false package_id=csv-core v0.1.13 target="csv_core"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/csv-core-29932b40db372b6c/lib-csv_core`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.009096834s  INFO prepare_target{force=false package_id=memchr v2.8.2 target="memchr"}: cargo::core::compiler::fingerprint: fingerprint error for memchr v2.8.2/Check { test: false }/TargetInner { benched: false, ..: lib_target("memchr", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memchr-2.8.2/src/lib.rs", Edition2021) }
+   0.009101542s  INFO prepare_target{force=false package_id=memchr v2.8.2 target="memchr"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/memchr-57f79b24d274e6a6/lib-memchr`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: cargo::core::compiler::compile
+   9: <cargo::core::compiler::build_runner::BuildRunner>::compile
+  10: cargo::ops::cargo_compile::compile_ws
+  11: cargo::ops::cargo_compile::compile_with_exec
+  12: cargo::ops::cargo_compile::compile
+  13: cargo::commands::check::exec
+  14: <cargo::cli::Exec>::exec
+  15: cargo::main
+  16: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  17: std::rt::lang_start::<()>::{closure#0}
+  18: std::rt::lang_start_internal
+  19: _main
+   0.009205375s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint: fingerprint error for itoa v1.0.18/Check { test: false }/TargetInner { ..: lib_target("itoa", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs", Edition2021) }
+   0.009209167s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/itoa-254bb3b8fa14adca/lib-itoa`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.009310042s  INFO prepare_target{force=false package_id=ryu v1.0.23 target="ryu"}: cargo::core::compiler::fingerprint: fingerprint error for ryu v1.0.23/Check { test: false }/TargetInner { ..: lib_target("ryu", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ryu-1.0.23/src/lib.rs", Edition2021) }
+   0.009313667s  INFO prepare_target{force=false package_id=ryu v1.0.23 target="ryu"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/ryu-dd73c60a5a78a7b8/lib-ryu`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.009442334s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint: fingerprint error for serde_core v1.0.228/Check { test: false }/TargetInner { ..: lib_target("serde_core", ["lib"], "/Users/urban/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/src/lib.rs", Edition2021) }
+   0.009446042s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/serde_core-fca4aae7a89c5caa/lib-serde_core`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.009713959s  INFO prepare_target{force=false package_id=csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs) target="csv-insight-rs"}: cargo::core::compiler::fingerprint: fingerprint error for csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs)/Check { test: true }/TargetInner { name: "csv-insight-rs", doc: true, ..: with_path("/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/src/main.rs", Edition2024) }
+   0.009718625s  INFO prepare_target{force=false package_id=csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs) target="csv-insight-rs"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs/target/debug/.fingerprint/csv-insight-rs-72994183f7429653/test-bin-csv-insight-rs`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <std::backtrace::Backtrace>::create
+   1: cargo_util::paths::read_bytes
+   2: cargo_util::paths::read
+   3: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   4: cargo::core::compiler::fingerprint::prepare_target
+   5: cargo::core::compiler::compile
+   6: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   7: cargo::ops::cargo_compile::compile_ws
+   8: cargo::ops::cargo_compile::compile_with_exec
+   9: cargo::ops::cargo_compile::compile
+  10: cargo::commands::check::exec
+  11: <cargo::cli::Exec>::exec
+  12: cargo::main
+  13: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  14: std::rt::lang_start::<()>::{closure#0}
+  15: std::rt::lang_start_internal
+  16: _main
+    Checking memchr v2.8.2
+    Checking itoa v1.0.18
+    Checking ryu v1.0.23
+    Checking serde_core v1.0.228
+    Checking csv-core v0.1.13
+    Checking csv v1.4.0
+    Checking csv-insight-rs v0.1.0 (/Users/urban/Documents/GitHub/learning/rust/csv-insight-rs)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.93s
